@@ -9,6 +9,16 @@
 
 - <b>Certified Information Systems Security Professional (CISSP)</b>
   - [Link to CISSP Credential](https://www.credly.com/badges/3cf08d59-66da-45d8-9284-7136532b08d7/public_url)
+- <b>ISO/IEC 27001 Information Security Associate™ </b>
+  - [Link to ISO/IEC 27001 Credential](https://www.skillfront.com/Badges/92883670009921)
+- <b>OPSWAT File Security Associate (OFSA)</b>
+  - [Link to OFSA Credential](https://www.credly.com/badges/1af0a705-fab3-4fbf-ac8f-87f3ef2457ba/public_url)
+- <b>IT Academy: Network Virtualization Concepts (VMWare)</b>
+  - [Link to Credential](https://www.credly.com/badges/0fa368b3-5198-4e75-b332-553dc01f2214/linked_in_profile)
+- <b>Introduction to Cybersecurity (Cisco)</b>
+  - [Link to Credential](https://www.credly.com/badges/46db4b45-afe3-443b-bdd4-52bdcd925982/linked_in_profile)
+- <b>OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</b>
+  - [Link to ICIP Credential](https://www.credly.com/badges/a82405af-abe5-477f-b5ca-4fd9e322671c/public_url)
 
 
 <h2>📺 Popular YouTube Videos</h2>
