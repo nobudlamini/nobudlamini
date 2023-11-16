@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nobukhosi! <br/><a href="https://github.com/nobudlamini">Programmer</a>, <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Nobukhosi! <br/><a href="https://github.com/nobudlamini">Cybersecurity Professional</a> | <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">IT Manager</a>, <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">Tech Founder</a> | <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">Non-Profit Founder</a> | <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">Keynote Speaker</a> | <a href="https://www.linkedin.com/in/nobukhosi-dlamini/">Non-Executive Board Member</a> </h1>
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
@@ -19,6 +19,10 @@
   - [Link to Credential](https://www.credly.com/badges/46db4b45-afe3-443b-bdd4-52bdcd925982/linked_in_profile)
 - <b>OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</b>
   - [Link to ICIP Credential](https://www.credly.com/badges/a82405af-abe5-477f-b5ca-4fd9e322671c/public_url)
+- <b>Inclusive Digital Economies and Gender Equality Playbook (ICIP)</b>
+  - [Link to Asian Development Bank Institute Credential](https://elearning-adbi.org/certificate-verifier/?code=88360-168-380-9572)
+- <b>Rethinking Higher Education Financing and Policies in a Changing World </b>
+  - [Link to  Asian Development Bank Institute Credential](https://elearning-adbi.org/certificate-verifier/?code=88360-168-925-6347)
 
 
 <h2>📺 Popular YouTube Videos</h2>
