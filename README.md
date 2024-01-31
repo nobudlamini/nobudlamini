@@ -24,7 +24,7 @@
 <h2>👩🏾‍💻 Data Projects:</h2>
 
 - <b>Exploration of Archivematica implementation on Ubuntu  (AlgoExpert)</b>
-  - [Archivematica Home Lab](https://github.com/nobudlamini/archivematica_exploration/edit/main/README.md)
+  - [Archivematica Home Lab](https://github.com/nobudlamini/archivematica_exploration)
 
 <h2> 🤳 Connect with me:</h2>
 
