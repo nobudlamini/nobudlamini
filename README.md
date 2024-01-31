@@ -30,11 +30,11 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 [linkedin]: https://linkedin.com/in/nobukhosi-dlamini
 [twitter]: https://twitter.com/_hypatiah
-[youtube]: https://www.youtube.com/c/nobukhosi_tobefixed
+
 
 
 <!--
